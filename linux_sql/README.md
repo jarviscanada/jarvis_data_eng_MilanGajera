@@ -1,4 +1,4 @@
-Introduction
+# Inroduction
 This project, a Linux Cluster Monitoring Agent, is designed for monitoring and managing a cluster of Linux servers via automated tools. Utilizing bash scripts, a PostgreSQL database, and crontab for scheduling, the agent tracks hardware specifications and resource usages in real-time, such as CPU and memory information. The target users are system administrators and DevOps teams who require a straightforward, efficient way to monitor server health and performance across multiple machines. This solution leverages technologies including Bash for scripting, Docker for containerization, PostgreSQL for data storage, and Git for version control, ensuring a versatile and scalable monitoring system.
 
 Quick Start
